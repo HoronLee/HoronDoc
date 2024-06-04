@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "HoronDoc"
   text: "Horon's Document"
-  tagline: 这里有你想要的一切
+  tagline: EveryThing you want.
   actions:
     - theme: brand
       text: HoronGPT
