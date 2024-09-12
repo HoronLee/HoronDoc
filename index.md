@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "HoronDoc"
+  name: "皓然文档"
   text: "Horon's Document"
   tagline: EveryThing you want.
   actions:
